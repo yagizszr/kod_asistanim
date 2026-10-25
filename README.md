@@ -4,3 +4,4 @@ Proje Yazarı: Yağız Ali Süzer
 olacak bir dijital asistan tasarlamak
 ## Projenin Hedefleri:Akıllı Menü,Veri Saklama
 ## Kaynakça Ders Kitabı Yapay Zeka
+Ders Kitabı Yapay Zeka
